@@ -1,0 +1,19 @@
+# =============================================
+# FACE BLUR PROJECT - Requirements
+# Compatible con Python 3.10+ / 3.14, Windows 10/11
+# =============================================
+
+# Visión computacional
+opencv-python>=4.8.0
+
+# Detección facial moderna
+mediapipe>=0.10.9
+
+# Interfaz gráfica mejorada
+customtkinter>=5.2.0
+
+# Procesamiento de imágenes (incluido con OpenCV, pero por si acaso)
+Pillow>=10.0.0
+
+# Numpy (dependencia de OpenCV y MediaPipe)
+numpy>=1.24.0
